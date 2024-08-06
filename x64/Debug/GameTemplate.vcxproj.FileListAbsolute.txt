@@ -1,0 +1,2 @@
+C:\Users\yuriyfirsov\VisualStudioProjects\game_template_wnd\x64\Debug\GameTemplate.exe
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\x64\Debug\GameTemplate.exe

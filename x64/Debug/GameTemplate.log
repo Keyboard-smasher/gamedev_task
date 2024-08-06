@@ -1,0 +1,48 @@
+﻿  base_object.cpp
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\utils.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\score_table.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\base_object.cpp(5,18): warning C4244: 'initializing': conversion from 'double' to 'uint32_t', possible loss of data
+  Engine.cpp
+  Game.cpp
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\obstacle.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\utils.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\score_table.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\player.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  game_master.cpp
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\obstacle.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\utils.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\score_table.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\player.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\game_master.cpp(10,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  obstacle.cpp
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\obstacle.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\utils.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\score_table.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  player.cpp
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\player.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\utils.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\score_table.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  score_table.cpp
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\score_table.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\score_table.cpp(3,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  score_table.h
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\score_table.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  utils.cpp
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\utils.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\score_table.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\utils.cpp(8,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\utils.cpp(9,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\utils.cpp(10,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\utils.cpp(32,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\utils.cpp(50,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\utils.cpp(55,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\utils.cpp(87,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\utils.cpp(91,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\utils.cpp(189,40): warning C4267: '+=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Generating Code...
+x64\Debug\score_table.obj : warning LNK4042: object specified more than once; extras ignored
+  GameTemplate.vcxproj -> C:\Users\yuriyfirsov\VisualStudioProjects\gamedev_task\x64\Debug\GameTemplate.exe
