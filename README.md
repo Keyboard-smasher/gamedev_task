@@ -1,4 +1,8 @@
-# Game Template (Windows)
+Инструкция:
+1. Открыть в Visual Studio.
+2. Собрать проект
 
-A simple framework for prototyping games. \
-The framework provides a video buffer and simple keyboard and mouse input.
+Руководство:
+1. Нажать Space для инверсии кругов
+2. Нажать 'A' после смерти для перезапуска игры
+3. Если сборка проекта вылетает с ошибкой, то проект нужно полностью пересобрать
